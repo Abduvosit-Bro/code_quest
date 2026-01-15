@@ -18,3 +18,5 @@
    ```bash
    git clone [https://github.com/Abduvosit-Bro/code_quest.git](https://github.com/Abduvosit-Bro/code_quest.git)
 
+##  Презентация
+##  https://www.magicslides.app/share/91e78f9d-64a6-4c53-a5ed-02b998f45d51?title=codequest
